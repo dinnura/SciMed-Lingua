@@ -160,4 +160,4 @@ We may update our Privacy Policy from time to time. Therefore, You are advised t
 CONTACT US
 Please submit any questions, concerns or comments You have about this Privacy Policy or any requests concerning Your information via email to cascompanykz@gmail.com.
 
-Last updated October 29, 2021
+Last updated November 24, 2022
