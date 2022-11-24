@@ -2,6 +2,7 @@ TERMS OF USE
 ----------------
 
 Please read these Terms of Use carefully before using SciMed Lingua
+
 By using SciMed Lingua (the “Application”, “App”, “Service”) on any mobile phone, tablet or another device (collectively “device”), you (“You”) as a user of the App confirm that You have read, understand and agree to be bound by these Terms of Use and any other applicable law. Mobapp Development Limited (“we”, “us”, “our”), having registered office at Karaiskaki 13, 3032, Limassol, Cyprus, may change these Terms of Use at any time without notice, effective upon their posting on the App. Your continued use of the App shall be considered Your acceptance of the revised Terms of Use. If You do not agree to these Terms of Use, please do not use this App.
 
 Scope of License
