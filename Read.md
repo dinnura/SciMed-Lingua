@@ -1,0 +1,1 @@
+About SciMed Lingua App 
