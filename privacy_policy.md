@@ -3,7 +3,7 @@ Privacy Policy
 
 Please read this Privacy Policy carefully before using SciMed Lingua.
 
-This Privacy Policy is aimed to inform you (“You”) as a user of SciMed Lingua (the “Application”, “App”, “Service”) about the information Funplex Limited (“we”, “us”, “our”), having registered office at Karaiskaki 13, 3032, Limassol, Cyprus, as the Application developer, collects, how that information may be used, with whom it may be shared, and Your options about such use and disclosure. 
+This Privacy Policy is aimed to inform you (“You”) as a user of SciMed Lingua (the “Application”, “App”, “Service”) about the information ___________(company name) (“we”, “us”, “our”), having registered office at ______________, _______(city), ___________(country), as the Application developer, collects, how that information may be used, with whom it may be shared, and Your options about such use and disclosure. 
 
 This Privacy Policy is incorporated into, and is subject to, the Application’s Terms of Use. 
 
