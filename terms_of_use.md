@@ -3,7 +3,7 @@ TERMS OF USE
 
 Please read these Terms of Use carefully before using SciMed Lingua
 
-By using SciMed Lingua (the “Application”, “App”, “Service”) on any mobile phone, tablet or another device (collectively “device”), you (“You”) as a user of the App confirm that You have read, understand and agree to be bound by these Terms of Use and any other applicable law. Mobapp Development Limited (“we”, “us”, “our”), having registered office at Karaiskaki 13, 3032, Limassol, Cyprus, may change these Terms of Use at any time without notice, effective upon their posting on the App. Your continued use of the App shall be considered Your acceptance of the revised Terms of Use. If You do not agree to these Terms of Use, please do not use this App.
+By using SciMed Lingua (the “Application”, “App”, “Service”) on any mobile phone, tablet or another device (collectively “device”), you (“You”) as a user of the App confirm that You have read, understand and agree to be bound by these Terms of Use and any other applicable law. ______________________ (“we”, “us”, “our”), having registered office at ________, _______, ______(city), _______(country), may change these Terms of Use at any time without notice, effective upon their posting on the App. Your continued use of the App shall be considered Your acceptance of the revised Terms of Use. If You do not agree to these Terms of Use, please do not use this App.
 
 Scope of License
 The App is licensed, not sold, to You. We grant non-exclusive, non-transferable, non-sublicensable, revocable limited license to run the App on Your device solely for the purpose of performing those functions and tasks available to You as an end user of the App. This license does not allow You to use the App on any device that You do not own or rightfully control, and You may not distribute or make the App available over a network where it could be used by multiple devices at the same time. You may not rent, lease, lend, sell, redistribute or sublicense the App. You may not copy (except as expressly permitted by this license or terms of the relevant certified application store), decompile, reverse engineer, disassemble, attempt to derive the source code of, modify or create derivative works of the App, any updates, or any part thereof (except as and only to the extent any foregoing restriction is prohibited by applicable law). Any attempt to do so is a violation of our rights as a licensor. If You breach this restriction, You may be subject to prosecution and damages.
@@ -40,8 +40,10 @@ YOU MUST AFFIRMATIVELY CANCEL A SUBSCRIPTION OR A FREE TRIAL (IF ANY) TO AVOID B
 • Subscriptions purchased via an App Store are subject to such App Store's refund policies. This means we cannot grant refunds. You will have to contact an App Store support.
 Disclaimer
 Your use of any aspect of the Service is at Your own risk.
-
 We make no representations or warranties whatsoever in respect of the Service. To the maximum extent permitted by applicable law, the Service is provided on an “as is” and “as available” basis. We make no representations or warranties of any kind, express or implied, as to the operation of the Service or any information, content, materials or products included or referenced therein. To the full extent permissible by applicable law, we disclaim all warranties, express or implied, including, but not limited to, implied warranties of merchantability, non-infringement of third parties’ rights and fitness for a particular purpose. You acknowledge that Your use of the Service is at Your sole risk.
+
+Medical Disclaimer
+The information on this application (SciMedLingua) is not intended or implied to be a substitute for professional medical advice, diagnosis, or treatment. All content, including text, graphics, images, and information, contained on or available through this application is for Medical English learning purposes only. SciMedLingua makes no representation and assumes no responsibility for the accuracy of the information contained on or available through this application, and such information is subject to change without notice. NEVER DISREGARD PROFESSIONAL MEDICAL ADVICE OR DELAY SEEKING MEDICAL TREATMENT BECAUSE OF SOMETHING YOU HAVE READ ON OR ACCESSED THROUGH THIS APPLICATION
 
 We disclaim any implied or statutory warranties regarding:
 
@@ -90,4 +92,4 @@ All notices to You relating to these Terms of Use shall be notified to You via t
 
 Please submit any notices to us relating to these Terms of Use via email to cascompanykz@gmail.com.
 
-Last updated November 24, 2022
+Last updated November 29, 2022
